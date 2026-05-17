@@ -159,7 +159,21 @@ Example: 5 km ride → 600g CO₂ saved
 | Eco Warrior | ~8.33 km (1 kg CO₂ equivalent) |
 | Cycle Champion | 100 km total |
 
-## Screenshots Flow
+## Screenshots and Demo
+
+### Demo Video
+* [Watch the Demo Video on YouTube](#) (Add link here)
+
+### App Screenshots
+| Splash | Login | Dashboard |
+|:---:|:---:|:---:|
+| ![Splash Placeholder](https://via.placeholder.com/200x400.png?text=Splash+Screen) | ![Login Placeholder](https://via.placeholder.com/200x400.png?text=Login+Screen) | ![Dashboard Placeholder](https://via.placeholder.com/200x400.png?text=Dashboard+Screen) |
+
+| Map View | Pit Stops | Eco Stats |
+|:---:|:---:|:---:|
+| ![Map Placeholder](https://via.placeholder.com/200x400.png?text=Map+Route) | ![Pit Stops Placeholder](https://via.placeholder.com/200x400.png?text=Pit+Stops) | ![Stats Placeholder](https://via.placeholder.com/200x400.png?text=Eco+Stats) |
+
+## App Flow
 
 ```
 Splash → Login/Register → Dashboard → [Route | Eco | Pit-Stops | Buddy | Report | Profile | ...]
