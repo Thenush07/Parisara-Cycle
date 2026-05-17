@@ -15,9 +15,17 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.SupervisorJob
 import kotlinx.coroutines.launch
 
+/**
+ * Main Application class for Parisara-Cycle.
+ * Initializes core dependencies, Firebase, App Check, and seeds initial data.
+ */
 class ParisaraApp : Application() {
     private val appScope = CoroutineScope(SupervisorJob() + Dispatchers.IO)
 
+    /**
+     * Called when the application is starting, before any activity, service, or receiver objects (excluding content providers) have been created.
+     * Sets up AppContainer and notification channels.
+     */
     override fun onCreate() {
         super.onCreate()
         FirebaseApp.initializeApp(this)
