@@ -2,8 +2,17 @@ package com.parisara.cycle.util
 
 import com.google.android.gms.maps.model.LatLng
 
-/** Decodes Google encoded polylines into LatLng points. */
+/** 
+ * Decodes Google encoded polylines into a list of LatLng points. 
+ * This is used to convert the string representation of a route from the Directions API
+ * into coordinate points that can be drawn on a Google Map.
+ */
 object PolylineDecoder {
+    /**
+     * Decodes an encoded string.
+     * @param encoded The string representation of the polyline.
+     * @return A list of decoded LatLng coordinates.
+     */
     fun decode(encoded: String): List<LatLng> {
         val poly = mutableListOf<LatLng>()
         var index = 0
