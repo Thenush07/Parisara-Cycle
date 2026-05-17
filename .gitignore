@@ -1,7 +1,14 @@
 *.iml
 .gradle
 /local.properties
-/.idea
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/gradle.xml
+/.idea/assetWizardSettings.xml
+/.idea/dictionaries
+/.idea/libraries
+/.idea/modules.xml
+/.idea/caches
 .DS_Store
 /build
 /captures
@@ -12,3 +19,8 @@ google-services.json
 *.apk
 *.ap_
 *.aab
+*.dex
+*.class
+bin/
+gen/
+project.properties
