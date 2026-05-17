@@ -8,7 +8,7 @@ A full-stack Android application for the **MindMatrix VTU Internship Program** t
 
 ## Features
 
-| Module | Description |
+| Module | Description |   
 |--------|-------------|
 | **Splash & Auth** | Professional splash, Firebase email/password auth, registration, forgot password, session persistence |
 | **Dashboard** | Welcome card, eco metrics, quick actions, achievements preview |
