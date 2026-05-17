@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">450991647269-293483ronjunlh1lfn7is4r4pmnlr3oc.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">450991647269</string>
+    <string name="google_api_key" translatable="false">AIzaSyDfXGxp1DwMqrO2UIXoam-D1VL-A8CPUCo</string>
+    <string name="google_app_id" translatable="false">1:450991647269:android:b541a5532b207ef27eadcc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDfXGxp1DwMqrO2UIXoam-D1VL-A8CPUCo</string>
+    <string name="google_storage_bucket" translatable="false">parisara-cycle-41626.firebasestorage.app</string>
+    <string name="project_id" translatable="false">parisara-cycle-41626</string>
+</resources>

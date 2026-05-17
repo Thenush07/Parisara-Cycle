@@ -1,0 +1,26 @@
+package com.parisara.cycle.ui.navigation
+
+object NavRoutes {
+    const val SPLASH = "splash"
+    const val LOGIN = "login"
+    const val REGISTER = "register"
+    const val FORGOT_PASSWORD = "forgot_password"
+    const val HOME = "home"
+    const val MAP_ROUTE = "map_route"
+    const val ECO_STATS = "eco_stats"
+    const val PIT_STOPS = "pit_stops"
+    const val BUDDY = "buddy"
+    const val REPORT = "report"
+    const val PROFILE = "profile"
+    const val RIDE_HISTORY = "ride_history"
+    const val SAFETY_TIPS = "safety_tips"
+    const val NOTIFICATIONS = "notifications"
+    const val SETTINGS = "settings"
+    const val ADMIN = "admin"
+    const val WEATHER = "weather"
+    const val LEADERBOARD = "leaderboard"
+    const val CHALLENGES = "challenges"
+    const val EDIT_PROFILE = "edit_profile"
+    const val ECO_SIMULATOR = "eco_simulator"
+    const val RIDE_HUD = "ride_hud"
+}

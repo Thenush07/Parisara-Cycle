@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parisara-Cycle</string>
+    <string name="tagline">Your Green Commuter Guide</string>
+    <string name="default_notification_channel">parisara_alerts</string>
+</resources>

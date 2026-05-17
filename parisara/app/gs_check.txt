@@ -1,0 +1,49 @@
+exists=true
+has_correct_package=false
+content={
+  "project_info": {
+    "project_number": "450991647269",
+    "project_id": "parisara-cycle-41626",
+    "storage_bucket": "parisara-cycle-41626.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450991647269:android:b541a5532b207ef27eadcc",
+        "android_client_info": {
+          "package_name": "com.parisaracycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450991647269-h3l4lq261bbqfldnbj2hhhc66uqaejvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parisaracycle",
+            "certificate_hash": "d9f56137216997c109c1cd3d10b9c9eafe92be04"
+          }
+        },
+        {
+          "client_id": "450991647269-293483ronjunlh1lfn7is4r4pmnlr3oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfXGxp1DwMqrO2UIXoam-D1VL-A8CPUCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450991647269-293483ronjunlh1lfn7is4r4pmnlr3oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
