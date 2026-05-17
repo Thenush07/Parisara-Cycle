@@ -17,7 +17,16 @@ import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import com.parisara.cycle.data.repository.ThemeOption
 
+/**
+ * MainActivity serves as the main entry point for the Parisara-Cycle application.
+ * It sets up the Compose navigation host and applies the user's preferred theme.
+ */
 class MainActivity : ComponentActivity() {
+    
+    /**
+     * Called when the activity is starting.
+     * Initializes the edge-to-edge display and sets up the root Compose view.
+     */
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
